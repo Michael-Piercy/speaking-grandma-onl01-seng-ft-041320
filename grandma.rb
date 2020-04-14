@@ -16,3 +16,5 @@ def speak_to_grandma
   else if speak_to_grandma == "HUH?! SPEAK UP, SONNY!"
   else if speak_to_grandma == "HUH?! SPEAK UP, SONNY!"
   else if speak_to_grandma == "NO, NOT SINCE 1938!"
+  else speak_to_grandma == "NO, NOT SINCE 1938!"
+end
