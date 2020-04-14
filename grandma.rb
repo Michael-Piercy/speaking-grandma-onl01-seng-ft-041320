@@ -21,6 +21,4 @@ end
 
 
 def speak_to_grandma('I LOVE YOU GRANDMA!')
-  if speak_to_grandma == 'I LOVE YOU TOO PUMPKIN!'
-    return I LOVE YOU TOO PUMPKIN!
-end
+  if speak_to_grandma == speak_to_grandma.
