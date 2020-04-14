@@ -20,5 +20,5 @@ def speak_to_grandma
 end
 
 
-def speak_to_grandma('I LOVE YOU GRANDMA!')
-  if speak_to_grandma == speak_to_grandma.
+def speak_to_grandma(phrase)
+  if 
