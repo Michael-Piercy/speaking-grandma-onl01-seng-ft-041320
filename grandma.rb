@@ -14,4 +14,4 @@
 def speak_to_grandma
   if speak_to_grandma == "I LOVE YOU TOO PUMPKIN!"
   else if speak_to_grandma == "HUH?! SPEAK UP, SONNY!"
-  else if speak_to_grandma == ""
+  else if speak_to_grandma == "HUH?! SPEAK UP, SONNY!"
